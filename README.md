@@ -1,7 +1,5 @@
 # 📅 ion2-calendar
 
-[![Build Status](https://travis-ci.org/HsuanXyz/ion2-calendar.svg?branch=master)](https://travis-ci.org/HsuanXyz/ion2-calendar)
-[![Dependency Status](https://david-dm.org/HsuanXyz/ion2-calendar.svg)](https://david-dm.org/HsuanXyz/ion2-calendar)
 [![NPM version][npm-image]][npm-url]
 [![Downloads][downloads-image]][downloads-url]
 [![MIT License][license-image]][license-url]
@@ -11,9 +9,6 @@
 <p align="center">
     <img width="800" src="https://github.com/HsuanXyz/hsuanxyz.github.io/blob/master/assets/ion2-calendar/calendar-1.png?raw=true">
 </p>
-
-> English is not my native language; please excuse typing errors.
-> [中文文档](https://github.com/HsuanXyz/ion2-calendar/blob/master/README-CN.md)
 
 - Support date range.
 - Support multi date.
@@ -25,8 +20,9 @@
 
 # Support
 
-- ionic-angular `^3.0.0` [2.x](https://github.com/HsuanXyz/ion2-calendar/tree/v2)
+- ionic-angular `^3.0.0`
 - @ionic/angular `4.0.0`
+- @ionic/angular `5.0.0`
 
 # Demo
 
@@ -36,7 +32,7 @@ live demo [click me](https://www-yefjsqmtmv.now.sh/).
 
 ### Installation
 
-`$ npm install ion2-calendar@next moment --save`
+`$ npm install @paulitto/ion2-calendar moment --save`
 
 ### Import module
 
